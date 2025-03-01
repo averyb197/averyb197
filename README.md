@@ -1,5 +1,7 @@
 do math with brain, do math about brain
-<!---
-averyb197/averyb197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+*"Find $7 enclosed. Stick it up your bung hole and wipe your nose on it, and that will remind you of the estimation in which you are held by Charles J. Guiteau."*
+- Charles J. Guiteau (allegedly)
+
